@@ -1,0 +1,11 @@
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\bin\Debug\SocketServerFormApplication.exe.config
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\bin\Debug\SocketServerFormApplication.exe
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\bin\Debug\SocketServerFormApplication.pdb
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.csproj.AssemblyReference.cache
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.Properties.Resources.resources
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.csproj.GenerateResource.cache
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.exe
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.pdb
+C:\Users\Çağrı\source\repos\SocketServerFormApplication\SocketServerFormApplication\obj\Debug\SocketServerFormApplication.Form1.resources
